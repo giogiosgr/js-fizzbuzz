@@ -1,1 +1,2 @@
 ### Esercitazione Javascript del 14 Maggio
+#### La repo ha un file index.html nel cui body è presente unicamente il link allo script Javascript. Lo script stesso implementa la logica dell'algoritmo "FizzBuzz": stampa in console dei numeri da 1 a 100, ma che per i multipli di 3 stampa “Fizz” al posto del numero e per i multipli di 5 stampa “Buzz”. Per i numeri che sono sia multipli di 3 che di 5 stampa “FizzBuzz”.
